@@ -1,0 +1,19 @@
+.list-list {
+    padding-left: 0;
+    list-style-type: none;
+    list-style-type: none;
+    width: 50%;
+    border-radius: 10px;
+}
+.list-item-item {
+    padding-left: 0;
+    list-style-type: none;
+    padding: 20px;
+    background: rgb(68, 68, 68);
+    transition: all .3s;
+}
+.list-item-item:hover {
+    background: rgb(97, 96, 96);
+    transition: all .3s;
+}
+

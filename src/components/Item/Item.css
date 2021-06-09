@@ -1,0 +1,16 @@
+.item {
+    width: 47%;
+    height: 450px;
+    padding: 10px;
+    background: rgb(65, 65, 65);
+    display: flex;
+}
+.item-block {
+    width: 47%;
+}
+
+.img-item {
+    height: 200px;
+    width: 150px;
+    border-radius: 10px;
+}

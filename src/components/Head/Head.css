@@ -1,0 +1,6 @@
+.head-link + .head-link {
+    margin-left: 40px;
+}
+.head-link {
+    text-decoration: none;
+}
